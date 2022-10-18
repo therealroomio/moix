@@ -1,6 +1,7 @@
 # MintoCrypto W3F Grant Application
 
-![MintoCrypto Logo @therealroomio](https://mintocrypto.com/wp-content/uploads/2021/08/website-logo-white.png "MintoCrypto")
+![MintoCrypto Logo @therealroomio](https://mintocrypto.com/wp-content/uploads/2021/08/website-logo-white.png#gh-dark-mode-only "MintoCrypto")
+![MintoCrypto Logo @therealroomio](https://mintocrypto.com/wp-content/uploads/2022/10/website-logo-blk.png#gh-light-mode-only "MintoCrypto")
 
 
 - **Project Code Name:** MintoCrypto
@@ -64,13 +65,17 @@ Our team has had success developing and designing to our professional standard. 
 
 ### Team's experience
 
-Roomi - I'm a full stack developer with 10 years experience specializing in e-commerce, fintech, real estate and education. I have a deep understanding of the latest technologies and am passionate about building beautiful web applications. I have an eye for beautiful but more importantly, functional design experience that enhances user engagement. I am proficient in prototyping UX/UI and producing MVPs on the latest design application. 
+Roomi - I'm a full stack developer with 10 years of experience specializing in e-commerce, fintech, real estate, and education. I have a deep understanding of the latest technologies and am passionate about building beautiful web applications. I have an eye for stunning, and functional design experiences that enhance user engagement. I am proficient in prototyping UX/UI and producing MVPs on the latest design application.
 
-I deal well with ambiguous/unexpected problems, through my ability to think abstractly. I also enjoy what I do. In my free time I have built beautiful and scalable products that I was able to successfully sell as a revenue generating business. 
-
-Currently I am thoroughly enjoying mastering React for its potential into Web3 and Shopify’s CLI. Recently I’ve made some Shopify themes, learnt liquid in the process, and became a certified Shopify Development Partner. But MintoCrypo is what keeps me up late at night, and eagerly gets me out of bed every morning. 
+My ability to think abstractly makes me well equipped to resolve ambiguous/unexpected problems. Currently I am mastering React for its potential into Web3 and Shopify’s CLI. I have recently made some Shopify themes, learnt liquid in the process, and have become a certified Shopify Development Partner. Despite my accomplishments thus far, MintoCrypo is what keeps me up late at night and gets me out of bed every morning
 
 Let’s chat 🤙
+
+
+
+Mueez - Senior design manager with over 10 years of experience creating designs for various mediums including 3D, graphic design, and motion graphics. Professional design experience creating for video games, architectural design as well as branding for world-wide companies such as Nike and Solana. 
+
+In depth-experience with the top design softwares used by professionals around the world allows me to provide wisdom and action in any development workflow. 
 
 ### Team Code Repos
 
