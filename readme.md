@@ -1,7 +1,7 @@
 # MintoCrypto W3F Grant Application
 
-![MintoCrypto Logo @therealroomio](https://mintocrypto.com/wp-content/uploads/2021/08/website-logo-white.png#gh-dark-mode-only "MintoCrypto")
-![MintoCrypto Logo @therealroomio](https://mintocrypto.com/wp-content/uploads/2022/10/website-logo-blk.png#gh-light-mode-only "MintoCrypto")
+![MintoCrypto Logo @therealroomio](https://github.com/therealroomio/MintoCrypto/blob/a01337e9f56fe02f89469084f28b0dd3d5f25741/mintocrypto-logo-darkmode.png#gh-dark-mode-only "MintoCrypto")
+![MintoCrypto Logo @therealroomio](https://github.com/therealroomio/MintoCrypto/blob/a01337e9f56fe02f89469084f28b0dd3d5f25741/mintocrypto-logo-lightmode.png#gh-light-mode-only "MintoCrypto")
 
 
 - **Project Code Name:** MintoCrypto
